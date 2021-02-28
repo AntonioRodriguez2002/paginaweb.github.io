@@ -1,0 +1,42 @@
+#impar{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#cabecera{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+/*BARRA DE NAVEGACION*/
+
+.barraNav{
+	background-color: rgba(0,0,0,0.8);
+}
+
+/*PIE DE PÁGINA*/
+
+.footer1{
+	background-color: rgba(0,0,0,0.8);
+	text-align: center;
+}
+
+/*ESTILO ETIQUETAS*/
+
+h2 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+p {
+	margin-top: 10px;
+	letter-spacing: 1.5px;
+	font-family: 'Varela', sans-serif;
+}
+
+li {
+	font-family: 'Varela', sans-serif;
+	letter-spacing: 1.5px;
+}
+
+footer{
+	font-size: 80%;
+}

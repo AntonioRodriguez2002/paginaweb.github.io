@@ -1,0 +1,51 @@
+/*BARRA DE NAVEGACION*/
+
+.barraNav{
+	background-color: rgba(0,0,0,0.8);
+}
+
+/*PIE DE PÁGINA*/
+
+.footer1{
+	background-color: rgba(0,0,0,0.8);
+	text-align: center;
+}
+
+/*ESTILO ETIQUETAS*/
+
+h2 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+li {
+	font-family: 'Varela', sans-serif;
+	letter-spacing: 1.5px;
+}
+
+footer{
+	font-size: 80%;
+}
+
+/*DIVS FOTOS*/
+.ultimaFoto{
+    margin-bottom: 200px;
+}
+
+
+.primeraFoto, .segundaFoto, .ultimaFoto {
+    box-shadow: 0 5px 15px -3px rgba(0,0,0,0.4);
+    background-color: white;
+    border-radius: 30px;
+}
+
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    block-size: auto;
+    background-color:  rgba(0,0,0,0.2); 
+}

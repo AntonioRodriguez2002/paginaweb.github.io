@@ -1,0 +1,16 @@
+body{
+background-image: url('fondoNets.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+/*BARRA DE NAVEGACION*/
+
+.barraNav{
+	background-color: rgba(0,0,0,0.8);
+}
+li {
+	font-family: 'Varela', sans-serif;
+	letter-spacing: 1.5px;
+}
